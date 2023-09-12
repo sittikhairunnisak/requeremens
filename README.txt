@@ -6,3 +6,4 @@ tfx==1.14.0
 tensorflow-model-analysis==0.22.0
 tensorflow-transform==0.22.0
 apache-beam[gcp]==2.22.0
+Git-2.42.0.2-64-bit
